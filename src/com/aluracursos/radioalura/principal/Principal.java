@@ -31,6 +31,7 @@ public class Principal {
 			miPodcast.reproduce();
 		}
 
+
 		System.out.println("Total de reproducciones: "+ miCancion.getTotalDeReproducciones());
 		System.out.println("Total de Me Gusta: "+ miCancion.getTotalDeMeGusta());
 
